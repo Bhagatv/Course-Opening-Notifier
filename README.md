@@ -1,1 +1,2 @@
-# Handwritten-Recognition
+Course Opening Notifier
+
